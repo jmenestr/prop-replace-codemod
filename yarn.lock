@@ -1053,9 +1053,9 @@ camelcase@^6.0.0:
   integrity sha1-kkr4gcnVJaydh/QNlk5c6pgqGAk=
 
 caniuse-lite@^1.0.30001181:
-  version "1.0.30001191"
-  resolved "https://registry.affirm-stage.com/artifactory/api/npm/npm/caniuse-lite/-/caniuse-lite-1.0.30001191.tgz?dl=https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001191.tgz#bacb432b6701f690c8c5f7c680166b9a9f0843d9"
-  integrity sha1-ustDK2cB9pDIxffGgBZrmp8IQ9k=
+  version "1.0.30001192"
+  resolved "https://registry.affirm-stage.com/artifactory/api/npm/npm/caniuse-lite/-/caniuse-lite-1.0.30001192.tgz?dl=https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001192.tgz#b848ebc0ab230cf313d194a4775a30155d50ae40"
+  integrity sha1-uEjrwKsjDPMT0ZSkd1owFV1QrkA=
 
 capture-exit@^2.0.0:
   version "2.0.0"
@@ -1163,9 +1163,9 @@ color-name@~1.1.4:
   integrity sha1-wqCah6y95pVD3m9j+jmVyCbFNqI=
 
 colorette@^1.2.1:
-  version "1.2.1"
-  resolved "https://registry.affirm-stage.com/artifactory/api/npm/npm/colorette/-/colorette-1.2.1.tgz?dl=https://registry.yarnpkg.com/colorette/-/colorette-1.2.1.tgz#4d0b921325c14faf92633086a536db6e89564b1b"
-  integrity sha1-TQuSEyXBT6+SYzCGpTbbbolWSxs=
+  version "1.2.2"
+  resolved "https://registry.affirm-stage.com/artifactory/api/npm/npm/colorette/-/colorette-1.2.2.tgz?dl=https://registry.yarnpkg.com/colorette/-/colorette-1.2.2.tgz#cbcc79d5e99caea2dbf10eb3a26fd8b3e6acfa94"
+  integrity sha1-y8x51emcrqLb8Q6zom/Ys+as+pQ=
 
 colors@^1.1.2:
   version "1.4.0"
